@@ -1,5 +1,5 @@
 # Sophia-AI-Desktop-Voice-Assistant
-## AI Desktop Voice Assistant Sophia
+## AI Desktop Voice Assistant Sophia(Using Python)
  
 ### AI Basic Details
 * Defining Speak Function - This Function will program your Sophia to speak something.
